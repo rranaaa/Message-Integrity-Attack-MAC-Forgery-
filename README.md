@@ -1,8 +1,3 @@
-# Message-Integrity-Attack-MAC-Forgery-
-Sure! Below is a sample **README** file for the project hosted on the GitHub link you provided. It explains the **Message Integrity Attack and MAC Forgery** concept and provides details about how to use and contribute to the repository.
-
----
-
 # Message Integrity Attack (MAC Forgery)
 
 This repository demonstrates a **Message Integrity Attack** and how **MAC Forgery** can be exploited through **length extension attacks** on hash-based message authentication codes (MACs). The project showcases how an attacker can forge a valid MAC for a modified message without knowing the secret key.
