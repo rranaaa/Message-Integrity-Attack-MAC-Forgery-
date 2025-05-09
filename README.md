@@ -39,7 +39,7 @@ pip install hashpumpy
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Simulate the Server
 
