@@ -133,33 +133,3 @@ else:
 * Always use **stronger hash functions** (e.g., SHA-256) combined with HMAC for integrity and authenticity.
 * **HMAC** is a more secure alternative to simple MACs and ensures that **no valid MAC** can be forged without the secret key.
 
-
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-1. **Fork the repository**.
-2. **Clone your fork** to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/Message-Integrity-Attack-MAC-Forgery.git
-   ```
-3. **Create a new branch** for your changes:
-
-   ```bash
-   git checkout -b new-feature
-   ```
-4. **Make your changes**, then **commit** them:
-
-   ```bash
-   git commit -m "Added new feature"
-   ```
-5. **Push** to your fork:
-
-   ```bash
-   git push origin new-feature
-   ```
-6. **Submit a pull request** to the main repository.
-
-
